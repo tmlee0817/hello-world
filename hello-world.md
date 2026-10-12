@@ -2,6 +2,7 @@
 
 ## About Me
 -**Name:** Taemin Lee
+
 -**Major:** Computer Software
 
 ## A Piece of Music I Love
